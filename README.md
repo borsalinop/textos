@@ -18,20 +18,18 @@ Chegar no topo da montanha é o objetivo da Madeline, e ela (que é controlada p
 no cume, como se vê livre de problemas que ela tinha antes de começar a escalada. E isso é bem parecido com o que acontece com a gente, quando
 estamos lutando para alcançar objetivos.
 
-Esse jogo me inspirou muito a correr atrás das minhas metas e objetivos, me ensinou que com persistência é mais do que possível fazer isso, e que, talvez vamos errar
+Esse jogo me inspirou muito a correr atrás das minhas metas, me ensinou que com persistência é mais do que possível fazer isso, e que, talvez vamos errar
 e sofrer no caminho, (e isso é representado pelas mortes e frustrações que você passa para chegar no cume) mas que a cada falha que cometemos, voltamos
 para tentar de novo e fazemos isso até passarmos de fase. E é nisso que eu quero chegar.
 
 Quando estabelecemos um objetivo, como por exemplo, **aprender programação**, nós vamos nos deparar com problemas, coisas que vão nos travar e nos deixar
 frustrados. Mas com persistẽncia, é mais do que possível chegar nisso, e até ir além.
 
-Nos primeiros momentos do jogo, é apresentada a mensagem: "**_Você consegue._**". E eu literalmente arrepiei nesse momento!! Sabe, não sei se escrever
+Nos primeiros momentos do jogo, é apresentada a mensagem: "**_Você consegue._**", e sabe, não sei se escrever
 esse texto vai mudar algo, mas a única coisa que eu quero que você recorde desse texto, é: "**Você consegue.**" Quando vier a pequena voz na sua cabeça
-falando para você desistir, e que programação (ou qualquer outra coisa) não é para você, **deixe ela de lado** e diga: "Eu consigo.". Se ela voltar, diga isso de novo
-e de novo, diga quantas vezes precisar. Porque sim, você consegue.
+falando para você desistir, e que programação (ou qualquer outra coisa) não é para você, **deixe ela de lado** e diga: "Eu consigo". Se ela voltar, diga isso de novo e de novo, diga quantas vezes precisar. Porque sim, você consegue.
 
-Enfim, recomendo fortemente que você jogue esse jogo um dia, talvez você goste, talvez você até se identifique com a personagem, como aconteceu comigo.
-Dito isso, para quem leu até aqui, desejo uma boa jornada... 
+Para quem leu até aqui, desejo uma boa escalada. 
 
 ...
 
